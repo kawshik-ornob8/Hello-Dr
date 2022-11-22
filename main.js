@@ -30,7 +30,7 @@ faqs.forEach(faq =>{
 const menu = document.querySelector(".nav__menu");
 const menuBtn = document.querySelector("#open-menu-btn");
 const closeBtn = document.querySelector("#close-menu-btn");
-//There is a problem 1:44:48 no video.. i can,t find why the button is not working
+//There is a problem i can,t find why the button is not working
 menuBtn.addEventListener('click', ()=> {
     menu.style.display = "flex";
     closeBtn.style.display = "inline-block";
