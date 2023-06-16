@@ -8,4 +8,4 @@ Trello Link:
 https://trello.com/invite/b/Goeqi2wU/ATTI7eb8139e26d7f6ff7f2c3994658a293417F277BE/hello-dr
 
 Github Pages:
-https://iamkawshik.github.io/Hello-Dr/
+https://kawshik-ornob8.github.io/Hello-Dr/
